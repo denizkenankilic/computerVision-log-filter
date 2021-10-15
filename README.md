@@ -1,2 +1,2 @@
 # computerVision-log-filter
-Laplacian of Gaussian Filter 
+Utilize the Laplacian of Gaussian Filter 
